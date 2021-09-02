@@ -1,3 +1,3 @@
 module.exports = {
-  baseUrl: '/Tabela'
+  baseUrl: '/Tabelas-TesteTecnico'
 }
